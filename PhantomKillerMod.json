@@ -1,0 +1,12 @@
+{
+  "id": "PhantomKillerMod",
+  "name": "幻影杀手 (Phantasmal Killer)",
+  "author": "PhantomKillerMod",
+  "description": "将静默猎手的暗影步（Shadow Step）整卡替换为杀戮尖塔1的幻影杀手（Phantasmal Killer）：去掉弃牌，下回合攻击造成双倍伤害；支持 14 种语言（15 个语言目录）与 STS1 官方卡图/Buff 图标。",
+  "version": "0.5.0",
+  "has_pck": true,
+  "has_dll": true,
+  "min_game_version": "0.107.1",
+  "dependencies": [],
+  "affects_gameplay": true
+}
