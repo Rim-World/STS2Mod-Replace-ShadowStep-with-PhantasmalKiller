@@ -36,11 +36,11 @@
 
 当你开启本 mod，且有一把正在进行中的游戏未结束就切换/升级游戏版本时，可能导致正在进行中的那一把游戏无法正常读取，只能放弃。
 
-# STS2Mod-Replace-ShadowStep-with-PhantasmalKiller
-
 ## ⑥ 鸣谢
 
 本 mod 使用 Codex（桌面版）+ DeepSeek V4 Flash（0731 正式版）完成，感谢梁圣。
+
+# STS2Mod-Replace-ShadowStep-with-PhantasmalKiller
 
 ## 1. Environment
 
