@@ -40,6 +40,10 @@
 
 本 mod 使用 Codex（桌面版）+ DeepSeek V4 Flash（0731 正式版）完成，感谢梁圣。
 
+感谢《杀戮尖塔 2》制作组为了方便玩家制作 mod 所做的努力。
+
+感谢 Baselib 制作者提供的文档，感谢 GitHub 项目 @jiegec/STS2RevertAnthony 提供的源码参考。
+
 # STS2Mod-Replace-ShadowStep-with-PhantasmalKiller
 
 ## 1. Environment
@@ -85,6 +89,3 @@ This mod was made with Codex (desktop) + DeepSeek V4 Flash (0731 official releas
 Thanks to the Slay the Spire 2 team for their efforts to make modding easier for players.
 
 Thanks to the Baselib developers for their documentation, and to the GitHub project @jiegec/STS2RevertAnthony for the source code reference.
-感谢《杀戮尖塔 2》制作组为了方便玩家制作 mod 所做的努力。
-
-感谢 Baselib 制作者提供的文档，感谢 GitHub 项目 @jiegec/STS2RevertAnthony 提供的源码参考。
