@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "Etereo",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "Infliggi [gold]Doppio[/gold] [gold]Danno[/gold] il prossimo turno.",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:plural:Infliggi [gold]Doppio[/gold] [gold]Danno[/gold] il prossimo turno.|Infliggi [gold]Doppio[/gold] [gold]Danno[/gold] per i prossimi [blue]{}[/blue] turni.}"
+}

@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "Illusion",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "Infligez le [gold]double[/gold] des [gold]dégâts[/gold] au prochain tour.",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:plural:Infligez le [gold]double[/gold] des [gold]dégâts[/gold] au prochain tour.|Infligez le [gold]double[/gold] des [gold]dégâts[/gold] aux [blue]{}[/blue] prochains tours.}"
+}

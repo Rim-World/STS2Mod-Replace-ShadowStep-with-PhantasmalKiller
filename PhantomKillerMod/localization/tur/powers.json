@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "Hayali Katil",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "Sonraki tur boyunca [gold]Çift[/gold] [gold]Hasar[/gold] ver.",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:plural:Sonraki tur boyunca [gold]Çift[/gold] [gold]Hasar[/gold] ver.|Sonraki [blue]{}[/blue] tur boyunca [gold]Çift[/gold] [gold]Hasar[/gold] ver.}"
+}

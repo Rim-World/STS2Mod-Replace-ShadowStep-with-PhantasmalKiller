@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "幻影",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "次のターンで [gold]2倍[/gold] のダメージを与える。",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:choose(1):次のターンで [gold]2倍[/gold] のダメージを与える。|次の [blue]{}[/blue] ターンの間、 [gold]2倍のダメージ[/gold] を与える。}"
+}

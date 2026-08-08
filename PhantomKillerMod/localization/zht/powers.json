@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "幻影",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "下回合造成 [gold]雙倍傷害[/gold]。",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:choose:下回合造成 [gold]雙倍傷害[/gold]。|下 [blue]{}[/blue] 個回合造成 [gold]雙倍傷害[/gold]。}"
+}

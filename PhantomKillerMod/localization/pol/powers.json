@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "Widmo",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "Zadaj [gold]podwójne[/gold] [gold]obrażenia[/gold] w następnej turze.",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:plural:Zadaj [gold]podwójne[/gold] [gold]obrażenia[/gold] w następnej turze.|Zadaj [gold]podwójne[/gold] [gold]obrażenia[/gold] przez następne [blue]{}[/blue] tury.|Zadaj [gold]podwójne[/gold] [gold]obrażenia[/gold] przez następne [blue]{}[/blue] tur.}"
+}

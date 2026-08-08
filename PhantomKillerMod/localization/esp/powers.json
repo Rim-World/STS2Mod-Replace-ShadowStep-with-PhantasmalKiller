@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "Fantasmal",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "Infringe el [gold]Doble[/gold] [gold]de[/gold] [gold]Daño[/gold] el siguiente turno.",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:plural:Infringe el [gold]Doble[/gold] [gold]de[/gold] [gold]Daño[/gold] el siguiente turno.|Infringe el [gold]Doble[/gold] [gold]de[/gold] [gold]Daño[/gold] durante los siguientes [blue]{}[/blue] turnos.}"
+}

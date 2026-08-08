@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "Fantasmagórico",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "Cause [gold]Dano[/gold] [gold]Dobrado[/gold] no próximo turno.",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:plural:Cause [gold]Dano[/gold] [gold]Dobrado[/gold] no próximo turno.|Cause [gold]Dano[/gold] [gold]Dobrado[/gold] pelos próximos [blue]{}[/blue] turnos.}"
+}

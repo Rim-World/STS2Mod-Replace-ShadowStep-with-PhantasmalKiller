@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "환영",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "다음 턴에 [gold]두[/gold] [gold]배[/gold] 의 [gold]피해[/gold] 를 줍니다.",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:choose(1):다음 턴에 [gold]두[/gold] [gold]배[/gold] 의 [gold]피해[/gold] 를 줍니다.|다음 [blue]{}[/blue] 턴 동안 [gold]두[/gold] [gold]배[/gold] 의 [gold]피해[/gold] 를 줍니다.}"
+}

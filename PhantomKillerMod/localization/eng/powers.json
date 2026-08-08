@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "Phantasmal",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "Deal [gold]Double[/gold] [gold]Damage[/gold] next turn.",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:plural:Deal [gold]Double[/gold] [gold]Damage[/gold] next turn.|Deal [gold]Double[/gold] [gold]Damage[/gold] for the next [blue]{}[/blue] turns.}"
+}

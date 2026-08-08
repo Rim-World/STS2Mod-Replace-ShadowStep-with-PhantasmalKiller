@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "Phantom",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "Du verursachst [gold]doppelten[/gold] [gold]Schaden[/gold] im nächsten Zug.",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:plural:Du verursachst [gold]doppelten[/gold] [gold]Schaden[/gold] im nächsten Zug.|Du verursachst [gold]doppelten[/gold] [gold]Schaden[/gold] für die nächsten [blue]{}[/blue] Züge.}"
+}

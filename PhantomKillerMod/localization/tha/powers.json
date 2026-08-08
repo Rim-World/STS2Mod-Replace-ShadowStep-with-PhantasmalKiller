@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "มายาสังหาร",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "[gold]สร้างความเสียหาย[/gold] [gold]2[/gold] [gold]เท่า[/gold] ในเทิร์นต่อไป",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:choose(1):[gold]สร้างความเสียหาย[/gold] [gold]2[/gold] [gold]เท่า[/gold] ในเทิร์นต่อไป|[gold]สร้างความเสียหาย[/gold] [gold]2[/gold] [gold]เท่า[/gold] เป็นเวลา [blue]{}[/blue] เทิร์น}"
+}

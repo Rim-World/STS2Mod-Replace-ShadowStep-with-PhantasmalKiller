@@ -1,0 +1,5 @@
+{
+  "RE_SHADOW_STEP_PHANTOM_POWER.title": "Фантом",
+  "RE_SHADOW_STEP_PHANTOM_POWER.description": "[gold]Удваивает[/gold] [gold]урон[/gold] от [gold]Атак[/gold] в след. ходу.",
+  "RE_SHADOW_STEP_PHANTOM_POWER.smartDescription": "{Amount:plural(ru):[gold]Удваивает[/gold] [gold]урон[/gold] от [gold]Атак[/gold] в след. ходу.|[gold]Удваивает[/gold] [gold]урон[/gold] от [gold]Атак[/gold] в течение след. [blue]{}[/blue] хода.|[gold]Удваивает[/gold] [gold]урон[/gold] от [gold]Атак[/gold] в течение след. [blue]{}[/blue] ходов.}"
+}
