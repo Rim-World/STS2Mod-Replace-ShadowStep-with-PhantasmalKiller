@@ -32,9 +32,9 @@
 
 ## ⑤ 兼容性与 Bug
 
-本 mod 采用最小依赖的方式写成，正常来说与大多数 mod 兼容，且不易随着版本变化而失效。但本 mod 不保证与盗版、修改版、移动版、老旧版本或者冷门 mod、次级 mod 的兼容性。
+本 mod 采用最小依赖的方式写成，正常来说与大多数 mod 兼容，且不易随着版本变化而失效。
 
-当你开启本 mod，且有一把正在进行中的游戏未结束就切换/升级游戏版本时，可能导致正在进行中的那一把游戏无法正常读取，只能放弃。
+但本 mod 不保证与盗版、修改版、移动版、老旧版本或者冷门 mod、次级 mod 的兼容性。
 
 ## ⑥ 鸣谢
 
@@ -78,9 +78,9 @@ At lower ascension (A0) in the vanilla game, in most runs, Phantasmal Killer is 
 
 ## 5. Compatibility & Bugs
 
-This mod is written with minimal dependencies, so under normal circumstances it is compatible with most mods and unlikely to break as the game version changes. However, compatibility is not guaranteed with pirated copies, modified versions, mobile versions, outdated versions, niche mods, or secondary mods.
+This mod is written with minimal dependencies, so under normal circumstances it is compatible with most mods and unlikely to break as the game version changes.
 
-If you enable this mod and switch/upgrade the game version while a run is still in progress without finishing it, the in-progress run may fail to load properly and can only be abandoned.
+However, compatibility is not guaranteed with pirated copies, modified versions, mobile versions, outdated versions, niche mods, or secondary mods.
 
 ## 6. Credits
 
